@@ -63,14 +63,6 @@ Conducted a comprehensive penetration testing engagement for a simulated corpora
 - **CompTIA Security+**
 - **Cisco Certified CyberOps Associate**
 
-## Contact
-
-I am open to cybersecurity opportunities and collaborations. Feel free to reach out to me through the following channels:
-
-- **Email:** aniket.sable@example.com
-- **LinkedIn:** [linkedin.com/in/aniketsable](https://www.linkedin.com/in/aniketsable)
-- **GitHub:** [github.com/aniketsable](https://github.com/aniketsable)
-
 ## Acknowledgements
 
 I would like to thank my mentors, peers, and the cybersecurity community for their continuous support and knowledge sharing.
